@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa874dE25Fa274dd7a43D32E0c9459C1DA0205C4E",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa874dE25Fa274dd7a43D32E0c9459C1DA0205C4E",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Hedz NFT",
+  "SYMBOL": "HEDZ",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hedz-nft",
+  "SHOW_BACKGROUND": true
+}
