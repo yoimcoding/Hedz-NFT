@@ -9,10 +9,10 @@
   "NFT_NAME": "Hedz NFT",
   "SYMBOL": "HEDZ",
   "MAX_SUPPLY": 999,
-  "WEI_COST": 4000000000000000000,
+  "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hedz-nft",
   "SHOW_BACKGROUND": true
 }
